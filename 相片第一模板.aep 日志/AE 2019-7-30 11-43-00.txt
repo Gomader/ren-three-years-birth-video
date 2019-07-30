@@ -1,0 +1,12 @@
+Adobe After Effects v16.0 Windows 64 为项目“相片第一模板.aep”渲染日志
+
+渲染在“11:43:00”的“2019/7/30”上开始
+
+  “2019/7/30”“11:43:00”: 开始合成“_RENDER_THIS_COMP_baby album”。
+
+  输出到: D:\银锭三周岁视频项目\已合成片段\_RENDER_THIS_COMP_baby album.avi      渲染由用户停止。      渲染由用户停止。  After Effects错误: 输出模块停止响应。文件可能已损坏。可能需要重新启动 After Effects。  “2019/7/30”“13:26:57”: 完成的合成“_RENDER_THIS_COMP_baby album”。
+
+
+  已用总时间: 1 小时，18 分钟
+日志在“13:26:58”的“2019/7/30”上关闭
+
