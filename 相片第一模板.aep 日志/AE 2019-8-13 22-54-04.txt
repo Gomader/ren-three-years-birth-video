@@ -1,0 +1,12 @@
+Adobe After Effects v16.0 Windows 64 为项目“相片第一模板.aep”渲染日志
+
+渲染在“22:54:04”的“2019/8/13”上开始
+
+  “2019/8/13”“22:54:05”: 开始合成“_RENDER_THIS_COMP_baby album”。
+
+  输出到: D:\银锭三周岁视频项目\已合成片段\_RENDER_THIS_COMP_baby album.avi      渲染由用户停止。    “2019/8/13”“22:54:14”: 完成的合成“_RENDER_THIS_COMP_baby album”。
+
+
+  已用总时间: 8 秒
+日志在“22:54:14”的“2019/8/13”上关闭
+
